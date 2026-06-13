@@ -3,12 +3,12 @@
     <channel>
         <title>Weft</title>
         <item>
-            <title>0.3.3</title>
-            <pubDate>Sat, 13 Jun 2026 00:40:43 -0400</pubDate>
-            <sparkle:version>82</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <title>0.3.4</title>
+            <pubDate>Sat, 13 Jun 2026 07:10:27 -0400</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/newtheyork-pixel/weft-releases/releases/download/v0.3.3/Weft-0.3.3.zip" length="4554834" type="application/octet-stream" sparkle:edSignature="rf+t/Sbeb9bgsYpiqeTaB/eEmmTp4Meke4EbhoW1t+072gIPabMPJInR7bV+YuPIOTZ0XzYI0jzqPACBTWgSBg=="/>
+            <enclosure url="https://github.com/newtheyork-pixel/weft-releases/releases/download/v0.3.4/Weft-0.3.4.zip" length="4576818" type="application/octet-stream" sparkle:edSignature="Mlx9BVEEw58xtqqWgGs2ABExPcR9euW3G6fmiOnV10q3WeBZUjDre8bDcPymtRdDQoOsWWG7DIVqoOkZHssbAw=="/>
         </item>
     </channel>
 </rss>
